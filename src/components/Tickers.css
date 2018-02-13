@@ -1,0 +1,5 @@
+.tickers {
+    list-style-type: none;
+    padding: 30px;
+    display: inline-flex;
+}
